@@ -7,5 +7,5 @@ Feature: Navigate to the testing website:
     Given user is on the homepage
 
   Scenario:
-    When user clicks on Add Elements for 4 times
-    Then verify that the number of elements added equals 4
+    When user clicks on Add Elements for 8 times
+    Then verify that the number of elements added equals 8
